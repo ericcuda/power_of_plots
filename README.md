@@ -15,7 +15,7 @@ Input Files located at the root level of the github repo url:
 * `data\city_data.csv`      - data file 1
 * `data\ride_deat.csv`      - data file 2
 
-Ouput files will be generated at rootlevel of this github repo url:
+Ouput files will be generated at root level of this github repo url:
 * `Figures\RideSharingDataDistribution.png` (bubble plot)
 * `Figures\DriversByCityType.png` (pie chart)
 * `Figures\FaresByCityType.png` (pie chart)
